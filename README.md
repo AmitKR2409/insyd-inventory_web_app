@@ -5,7 +5,7 @@ The application focuses on improving **trust, accountability, and decision-makin
 
 ---
 
-## 🔍 Problem Statement
+## Problem Statement
 
 ### Problem 1  
 **Lack of trust in inventory data due to missing transparency and accountability**
@@ -15,7 +15,7 @@ The application focuses on improving **trust, accountability, and decision-makin
 
 ---
 
-## ✅ Solution Overview
+## Solution Overview
 
 This application provides:
 - Transparent inventory tracking
@@ -27,7 +27,7 @@ Both **backend APIs** and **frontend dashboard** are fully deployed and connecte
 
 ---
 
-## 🧩 Features
+## Features
 
 ### Inventory Management (Problem 1)
 - View inventory items with real-time quantity
@@ -43,7 +43,7 @@ Both **backend APIs** and **frontend dashboard** are fully deployed and connecte
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - Next.js (App Router)
@@ -64,13 +64,13 @@ Both **backend APIs** and **frontend dashboard** are fully deployed and connecte
 
 ---
 
-## 🌐 Live URLs
+## Live URLs
 
 ### Frontend (Dashboard)
-👉 https://insyd-inventory-web-app.vercel.app
+ https://insyd-inventory-web-app.vercel.app
 
 ### Backend API
-👉 https://insyd-inventory-web-app.onrender.com/api
+ https://insyd-inventory-web-app.onrender.com/api
 
 ### Example API Endpoints
 - `/api/items`
@@ -83,7 +83,7 @@ Both **backend APIs** and **frontend dashboard** are fully deployed and connecte
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. Inventory items are stored in MongoDB
 2. Any stock update requires a **reason**
@@ -96,7 +96,7 @@ Both **backend APIs** and **frontend dashboard** are fully deployed and connecte
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 This repository uses a **single GitHub repo (monorepo)** approach:
 - Backend and frontend are maintained in separate folders
@@ -104,7 +104,7 @@ This repository uses a **single GitHub repo (monorepo)** approach:
 
 ---
 
-## 🚀 Deployment Status
+## Deployment Status
 
 - Backend successfully deployed on Render
 - Frontend successfully deployed on Vercel
@@ -113,7 +113,7 @@ This repository uses a **single GitHub repo (monorepo)** approach:
 
 ---
 
-## 🧪 Sample Use Case
+## Sample Use Case
 
 - Select an inventory item
 - Reduce quantity due to damage or sale
